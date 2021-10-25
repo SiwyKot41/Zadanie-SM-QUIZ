@@ -5,9 +5,9 @@
     <string name="prawda">Prawda</string>
     <string name="q_a">Warto pisać w vimie</string>
     <string name="q_b">Warto korzystać z Arch Linuxa</string>
-    <string name="q_c">Pisanie programów na macu jest zjebane</string>
+    <string name="q_c">Czy pisanie aplikacji na macu jest fajne</string>
     <string name="q_d">Czy warto studiować</string>
-    <string name="q_e">Czy warto popełniać samobójstwo</string>
+    <string name="q_e">Czy warto jeździć na monocyklu</string>
     <string name="correct">Odpowiedź prawidłowa!</string>
     <string name="wrong">Odpowiedź błędna</string>
 </resources>
