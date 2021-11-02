@@ -5,9 +5,12 @@
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Zadanie/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Zadanie/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2140625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="app/src/main/res/layout/activity_prompt.xml" value="0.18" />
       </map>
     </option>
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -10,4 +10,12 @@
     <string name="q_e">Czy warto jeździć na monocyklu</string>
     <string name="correct">Odpowiedź prawidłowa!</string>
     <string name="wrong">Odpowiedź błędna</string>
+    <string name="prompt1">Vim jest jednym z lepszych edytorów tekstowych</string>
+    <string name="prompt2">Arch linux ma bardzo często aktualizacje</string>
+    <string name="prompt3">Mac jest najlepszą platformą do pisania programów :)</string>
+    <string name="prompt4">Nieodpowiednie studiowanie może zakończyć się problemami zdrowtnymi</string>
+    <string name="prompt5">Dzięki jeździe na monocyklu można poprawić znacznie swoją równowagę</string>
+    <string name="Nie">Nie</string>
+    <string name="Tak">Tak</string>
+    <string name="promptWasShown">Podpowiedź została już wyświetlona, brak punktów za to pytanie</string>
 </resources>
