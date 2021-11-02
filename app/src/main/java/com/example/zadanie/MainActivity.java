@@ -3,6 +3,7 @@ package com.example.zadanie;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -13,6 +14,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String QUIZ_TAG = "MainActivity";
+    public static final String activityLog = "Wywołana została metoda z cyklu życia: ";
     private int currentIndex = 0;
     TextView textView;
 
@@ -61,6 +64,42 @@ public class MainActivity extends AppCompatActivity {
 
     public void setNextQuestion() {
         textView.setText(listOfQuestion.get(currentIndex).getQuestionId());
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.d(QUIZ_TAG, activityLog + "onStart");
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.d(QUIZ_TAG, activityLog + "onResume");
 
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Log.d(QUIZ_TAG, activityLog + "onPause");
+
+    }
+
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Log.d(QUIZ_TAG, activityLog + "onStop");
+
+    }
+
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d(QUIZ_TAG, activityLog + "onDestroy");
+
+    }
+
 }
