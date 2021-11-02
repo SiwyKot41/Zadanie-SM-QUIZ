@@ -1,0 +1,25 @@
+Podczas pierwszego uruchomienia
+2021-11-02 12:23:03.197 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onCreate
+2021-11-02 12:23:03.206 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStart
+2021-11-02 12:23:03.215 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onResume
+Po kliknięciu przycisku cofnij
+2021-11-02 12:25:58.691 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onPause
+2021-11-02 12:25:59.078 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStop
+2021-11-02 12:25:59.081 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onDestroy
+Po ponownym uruchomieniu aplikacji
+2021-11-02 12:26:54.036 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onCreate
+2021-11-02 12:26:54.038 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStart
+2021-11-02 12:26:54.041 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onResume
+Po kliknięciu przycisku home
+2021-11-02 12:28:37.122 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onPause
+2021-11-02 12:28:37.171 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStop
+Po powrocie do listy ostatnio używanych aplikacji
+2021-11-02 12:29:50.038 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onPause
+2021-11-02 12:29:50.055 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStop
+Po obróceniu urządzenia
+2021-11-02 12:32:23.085 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onPause
+2021-11-02 12:32:23.088 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStop
+2021-11-02 12:32:23.089 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onDestroy
+2021-11-02 12:32:23.203 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onCreate
+2021-11-02 12:32:23.205 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onStart
+2021-11-02 12:32:23.207 5333-5333/com.example.zadanie D/MainActivity: Wywołana została metoda z cyklu życia: onResume
